@@ -4,11 +4,11 @@ Performance-driven professional with 6+ years in creative execution (21+ brands)
 
 My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
 
-<h2 style="font-size: 24px; font-weight: 700;">🛠️ Technical Toolkit
+<h2 style="font-size: 24px; font-weight: 700;">🛠️ Technical Toolkit</h2>
 
 Data & Business Intelligence (BI)
 
-<h2 style="font-size: 24px; font-weight: 700;">Tools: 🐍 Python (Pandas, Requests), Power BI, SQL, Google Analytics (GA)
+Tools: 🐍 Python (Pandas, Requests), Power BI, SQL, Google Analytics (GA)
 
 Focus: Data Wrangling, Visualization, and Dashboard Reporting.
 
@@ -24,11 +24,11 @@ Skills: Web Scraping, Generative AI (Lovable.app), Git
 
 Focus: Automating data acquisition and rapid prototype development.
 
-<h2 style="font-size: 24px; font-weight: 700;">💡 Featured Project: Find Your District HK
+<h2 style="font-size: 24px; font-weight: 700;">💡 Featured Project: Find Your District HK</h2>
 
 A full-stack, data-driven web app to help users find their ideal residential area in Hong Kong based on lifestyle and amenities.
 
-$$🏠 Find Your District HK: Hong Kong District Matching Tool$$
+<h3 style="font-size: 20px; font-weight: 600;">🏠 Find Your District HK: Hong Kong District Matching Tool</h3>
 
 Project Website: https://findyourdistricthk.lovable.app/
 
@@ -38,7 +38,7 @@ Key Achievement: Used Python to scrape and process multi-dimensional public data
 
 Outcome: Data was transformed into a Multi-dimensional Weighted Index and deployed as an interactive tool, demonstrating the ability to turn raw data into a functional product prototype.
 
-<h2 style="font-size: 24px; font-weight: 700;">🏆 Credentials & Commitment
+<h2 style="font-size: 24px; font-weight: 700;">🏆 Credentials & Commitment</h2>
 
 Proactive self-study and certification reflect my commitment to analytical rigor:
 
