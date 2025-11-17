@@ -40,9 +40,7 @@ Outcome: Data was transformed into a Multi-dimensional Weighted Index and deploy
 
 <h3 style="font-size: 20px; font-weight: 600;">🤖 Automated Weekly Web Scraper</h3>
 
-Repository Link: 
-
-$$Link to your Weekly Scraper Repo$$
+Repository Link: https://github.com/slyslymonkey/HKhouseprice
 
 Demonstrates: Scheduled data extraction, automation pipeline setup, and data storage/pipeline management.
 
