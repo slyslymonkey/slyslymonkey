@@ -7,7 +7,7 @@ Performance-driven professional with 6+ years in creative execution (21+ brands)
 >Data & Business Intelligence (BI)
 Tools: 🐍 Python (Pandas, Requests), Power BI, SQL, Google Analytics (GA)
 Focus: Data Wrangling, Visualization, and Dashboard Reporting.
->
+
 Marketing & Creative Technology
 Expertise: Performance Creative, EDM Campaign Execution, Brand Management
 Experience: 6+ years focusing on measurable ROI and high-volume campaign output.
