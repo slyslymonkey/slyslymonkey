@@ -76,12 +76,6 @@ Microsoft Certified: Power BI Data Analyst Associate
 
 Certificate in Digital and Social Media Marketing
 
-🤝 Collaboration & Contact
 
-I am passionate about uncovering the story behind the numbers and solving complex business challenges using a blend of creativity and rigor.
 
-🌐 LinkedIn: [Your LinkedIn Link]
 
-📧 Email: [Your Email Address]
-
-📝 Areas of Interest: Performance Marketing Analytics, Brand Health Tracking, Python Automation
