@@ -15,9 +15,9 @@ Focus: Data Wrangling, Visualization, and Dashboard Reporting.
 
 <h3 style="text-decoration: underline;">Marketing & Creative Technology</h3>
 
-Expertise: Performance Creative, EDM Campaign Execution, Brand Management
+Expertise: Organic & Performance Creative, Brand Management
 
-Experience: 6+ years focusing on measurable ROI and high-volume campaign output.
+Experience: 6+ years focusing on measurable and high-volume campaign output.
 
 <h3 style="text-decoration: underline;">Development & Automation</h3>
 
