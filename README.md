@@ -1,8 +1,4 @@
-<h1 style="font-size: 32px; color: #1f2937;">📊 
-
-$$Your Name/Nickname$$
-
- | Creative Lead Pivoting to Data & Performance</h1>
+<h1 style="font-size: 32px; color: #1f2937;">📊 Joy | Creative Lead Pivoting to Data & Performance</h1>
 
 Performance-driven professional with 6+ years in creative execution (21+ brands) now focused on leveraging data science and BI tools to optimize marketing outcomes.
 
