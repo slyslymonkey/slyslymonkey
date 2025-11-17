@@ -4,6 +4,7 @@ Performance-driven professional with 6+ years in creative execution (21+ brands)
 
 My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
 
+
 <h2 style="font-size: 24px; font-weight: 700;">🛠️ Technical Toolkit</h2>
 
 <h3 style="text-decoration: underline;">Data & Business Intelligence (BI)</h3>
@@ -23,6 +24,7 @@ Experience: 6+ years focusing on measurable ROI and high-volume campaign output.
 Skills: Web Scraping, Generative AI (Lovable.app), Git
 
 Focus: Automating data acquisition and rapid prototype development.
+
 
 <h2 style="font-size: 24px; font-weight: 700;">💡 Featured Projects & Automation</h2>
 
@@ -45,6 +47,7 @@ Repository Link: https://github.com/slyslymonkey/HKhouseprice
 Demonstrates: Scheduled data extraction, automation pipeline setup, and data storage/pipeline management.
 
 Value: Proven ability to build and maintain automated, recurring data acquisition processes, ensuring fresh data is always available for analysis.
+
 
 <h2 style="font-size: 24px; font-weight: 700;">🏆 Credentials & Commitment</h2>
 
