@@ -1,7 +1,8 @@
-<h1 style="font-size: 32px; color: #1f2937;">📊 Joy | Creative Lead Pivoting to Data & Performance</h1>
+<h1 style="font-size: 32px; color: #1f2937;">📊 Your Name/Nickname | Creative Lead Pivoting to Data & Performance</h1>
 
-Performance-driven professional with 6+ years in creative execution (21+ brands) now focused on leveraging data science and BI tools to optimize marketing outcomes.My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
+Performance-driven professional with 6+ years in creative execution (21+ brands) now focused on leveraging data science and BI tools to optimize marketing outcomes.
 
+My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
 
 <h2 style="font-size: 24px; font-weight: 700;">🛠️ Technical Toolkit</h2>
 
@@ -23,12 +24,11 @@ Skills: Web Scraping, Generative AI (Lovable.app), Git
 
 Focus: Automating data acquisition and rapid prototype development.
 
+<h2 style="font-size: 24px; font-weight: 700;">💡 Featured Projects & Automation</h2>
 
-<h2 style="font-size: 24px; font-weight: 700;">💡 Featured Project: Find Your District HK</h2>
+<h3 style="font-size: 20px; font-weight: 600;">🏠 Find Your District HK: Data & Web App Prototype</h3>
 
 A full-stack, data-driven web app to help users find their ideal residential area in Hong Kong based on lifestyle and amenities.
-
-🏠 Find Your District HK: Hong Kong District Matching Tool</h3>
 
 Project Website: https://findyourdistricthk.lovable.app/
 
@@ -38,6 +38,13 @@ Key Achievement: Used Python to scrape and process multi-dimensional public data
 
 Outcome: Data was transformed into a Multi-dimensional Weighted Index and deployed as an interactive tool, demonstrating the ability to turn raw data into a functional product prototype.
 
+<h3 style="font-size: 20px; font-weight: 600;">🤖 Automated Weekly Web Scraper</h3>
+
+Repository Link: [Link to your Weekly Scraper Repo]
+
+Demonstrates: Scheduled data extraction, automation pipeline setup, and data storage/pipeline management.
+
+Value: Proven ability to build and maintain automated, recurring data acquisition processes, ensuring fresh data is always available for analysis.
 
 <h2 style="font-size: 24px; font-weight: 700;">🏆 Credentials & Commitment</h2>
 
@@ -48,3 +55,5 @@ Google Data Analytics Professional Certificate
 Microsoft Certified: Power BI Data Analyst Associate
 
 Certificate in Digital and Social Media Marketing
+
+<h2 style="font-size: 24px; font-weight: 700;">🤝 Contact</h2>
