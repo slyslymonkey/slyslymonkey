@@ -1,14 +1,14 @@
-📊 Joy | Creative Lead Pivoting to Data & Performance
+##📊 Joy | Creative Lead Pivoting to Data & Performance
 
 Performance-driven professional with 6+ years in creative execution (21+ brands) now focused on leveraging data science and BI tools to optimize marketing outcomes.
 
 My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
 
-🛠️ Technical Toolkit
+##🛠️ Technical Toolkit
 
 Data & Business Intelligence (BI)
 
-Tools: 🐍 Python (Pandas, Requests), Power BI, SQL, Google Analytics (GA)
+##Tools: 🐍 Python (Pandas, Requests), Power BI, SQL, Google Analytics (GA)
 
 Focus: Data Wrangling, Visualization, and Dashboard Reporting.
 
@@ -24,7 +24,7 @@ Skills: Web Scraping, Generative AI (Lovable.app), Git
 
 Focus: Automating data acquisition and prototype development.
 
-💡 Featured Project: Find Your District HK
+##💡 Featured Project: Find Your District HK
 
 A full-stack, data-driven web app to help users find their ideal residential area in Hong Kong based on lifestyle and amenities.
 
@@ -38,7 +38,7 @@ Key Achievement: Used Python to scrape and process multi-dimensional public data
 
 Outcome: Data was transformed into a Multi-dimensional Weighted Index and deployed as an interactive tool, demonstrating the ability to turn raw data into a functional product prototype.
 
-🏆 Credentials & Commitment
+##🏆 Credentials & Commitment
 
 Proactive self-study and certification reflect my commitment to analytical rigor:
 
