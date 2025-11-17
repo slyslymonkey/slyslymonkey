@@ -1,8 +1,6 @@
 <h1 style="font-size: 32px; color: #1f2937;">📊 Joy | Creative Lead Pivoting to Data & Performance</h1>
 
-Performance-driven professional with 6+ years in creative execution (21+ brands) now focused on leveraging data science and BI tools to optimize marketing outcomes.
-
-My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
+Performance-driven professional with 6+ years in creative execution (21+ brands) now focused on leveraging data science and BI tools to optimize marketing outcomes.My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
 
 <h2 style="font-size: 24px; font-weight: 700;">🛠️ Technical Toolkit</h2>
 
