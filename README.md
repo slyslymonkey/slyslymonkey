@@ -4,13 +4,13 @@ Performance-driven professional with 6+ years in creative execution (21+ brands)
 
 <h2 style="font-size: 24px; font-weight: 700;">🛠️ Technical Toolkit</h2>
 
-Data & Business Intelligence (BI)
+<h3 style="font-size: 20px; font-weight: 600;">Data & Business Intelligence (BI)
 
 Tools: 🐍 Python (Pandas, Requests), Power BI, SQL, Google Analytics (GA)
 
 Focus: Data Wrangling, Visualization, and Dashboard Reporting.
 
-Marketing & Creative Technology
+<h3 style="font-size: 20px; font-weight: 600;">Marketing & Creative Technology
 
 Expertise: Performance Creative, EDM Campaign Execution, Brand Management
 
