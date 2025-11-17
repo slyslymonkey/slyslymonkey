@@ -34,11 +34,11 @@ A full-stack, data-driven web app to help users find their ideal residential are
 
 Project Website: https://findyourdistricthk.lovable.app/
 
-Technical Stack: Python (Web Scraping), Data Cleaning, Data Analytics, Lovable.app (Gen AI Platform).
+Technical Stack: Python (Web Scraping, Pandas, MinMaxScaler), Data Cleaning, Data Analytics, Lovable.app (Gen AI Platform).
 
-Key Achievement: Used Python to scrape and process multi-dimensional public data (F&B outlets, sports facilities, convenience stores, housing prices) for all HK districts.
+Key Achievement: Used Python to scrape, merge, and **normalize** multi-dimensional public data (F&B outlets, sports facilities, convenience stores, housing prices) for all HK districts, ensuring all metrics were scaled 0-to-1 for fair comparison and modeling.
 
-Outcome: Data was transformed into a Multi-dimensional Weighted Index and deployed as an interactive tool, demonstrating the ability to turn raw data into a functional product prototype.
+Outcome: The **normalized** data was then transformed into a Multi-dimensional Weighted Index and deployed as an interactive tool, demonstrating the ability to turn raw data into a functional product prototype.
 
 <h3 style="font-size: 20px; font-weight: 600;">🤖 Automated Weekly Web Scraper</h3>
 
