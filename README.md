@@ -1,81 +1,49 @@
-Joy | Data-Driven Creative & Performance Marketing Analyst
+📊 Joy | Creative Lead Pivoting to Data & Performance
 
-"Transitioning from a 6-year Creative Lead journey to a Data-Driven, Full-Stack Solution Specialist."
+Performance-driven professional with 6+ years in creative execution (21+ brands) now focused on leveraging data science and BI tools to optimize marketing outcomes.
 
-I specialize in merging hands-on experience in brand storytelling and high-performance creative execution with a solid Data Analytics framework to drive tangible business results.
+My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
 
-🚀 Core Competencies
+🛠️ Technical Toolkit
 
-My professional edge lies in applying the analytical rigor of the left brain to the creative execution of the right brain.
+Data & Business Intelligence (BI)
 
-Type
+Tools: 🐍 Python (Pandas, Requests), Power BI, SQL, Google Analytics (GA)
 
-Skill / Tool
+Focus: Data Wrangling, Visualization, and Dashboard Reporting.
 
-Notes
+Marketing & Creative Technology
 
-Data Analysis & Business Intelligence (BI)
+Expertise: Performance Creative, EDM Campaign Execution, Brand Management
 
-📊 Power BI, Google Analytics, Excel
+Experience: 6+ years focusing on measurable ROI and high-volume campaign output.
 
-Focus on Dashboard Development, KPI Tracking, and Market Performance Analysis.
+Development & Automation
 
-Programming & Data Engineering
+Skills: Web Scraping, Generative AI (Lovable.app), Git
 
-🐍 Python (Pandas, Scikit-learn, Requests), SQL, Git
+Focus: Automating data acquisition and prototype development.
 
-Proficient in data cleaning, Exploratory Data Analysis (EDA), and automated data collection (Web Scraping).
+💡 Featured Project: Find Your District HK
 
-Creative & Marketing Foundation
-
-🖼️ Adobe Creative Suite, EDM, POP, YouTube Visuals
-
-6 years of agency and in-house creative leadership; experienced in Brand Management and campaign execution.
-
-New Technology Integration
-
-✨ Generative AI (e.g., Lovable.app Integration)
-
-Applying AI techniques for rapid product prototyping and fusing creativity with technology.
-
-💡 Featured Project: Data-Driven Living Decisions
-
-This project perfectly showcases my end-to-end capabilities in data collection, analysis, and product creation.
+A full-stack, data-driven web app to help users find their ideal residential area in Hong Kong based on lifestyle and amenities.
 
 [🏠 Find Your District HK: Hong Kong District Matching Tool]
 
 Project Website: https://findyourdistricthk.lovable.app/
 
-Metric
+Technical Stack: Python (Web Scraping), Google Data Analytics Framework, Lovable.app (Gen AI Platform).
 
-Detail
+Key Achievement: Used Python to scrape and process multi-dimensional public data (F&B outlets, sports facilities, convenience stores, housing prices) for all HK districts.
 
-Solution
-
-A tool that helps users discover the best Hong Kong districts tailored to their lifestyle preferences using multi-dimensional data analysis.
-
-Data Collection (Code Ability)
-
-Utilized Python Web Scraping to extract data from various public sources, including:  - Quantity of F&B outlets per district  - Number of Sports Facilities per district  - 24-hour convenience store coverage  - Processed Real-time Housing Price data
-
-Analysis & Productization
-
-1. Built a Multi-dimensional Weighted Index for district scoring. 2. Applied the Google Data Analytics framework for data cleaning and validation. 3. Used Lovable.app (Gen AI Platform) to quickly transform analytical insights into an interactive Web App.
-
-Portfolio Highlight
-
-Demonstrates the ability to acquire unstructured data from scratch, analyze it, and translate findings into a user-facing product.
+Outcome: Data was transformed into a Multi-dimensional Weighted Index and deployed as an interactive tool, demonstrating the ability to turn raw data into a functional product prototype.
 
 🏆 Credentials & Commitment
 
-To ensure competitiveness in the digital age, I have proactively obtained these professional certifications through self-study:
+Proactive self-study and certification reflect my commitment to analytical rigor:
 
 Google Data Analytics Professional Certificate
 
 Microsoft Certified: Power BI Data Analyst Associate
 
 Certificate in Digital and Social Media Marketing
-
-
-
-
