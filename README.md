@@ -50,10 +50,10 @@ Value: Proven ability to build and maintain automated, recurring data acquisitio
 
 Proactive self-study and certification reflect my commitment to analytical rigor:
 
+Certificate in Data Science with Python
+
 Google Data Analytics Professional Certificate
 
 Microsoft Certified: Power BI Data Analyst Associate
 
-Certificate in Digital and Social Media Marketing
-
-<h2 style="font-size: 24px; font-weight: 700;">🤝 Contact</h2>
+Postgraduate Certificate in Digital and Social Media Marketing
