@@ -6,19 +6,19 @@ My foundation is in Brand Management and high-volume performance creative; my fu
 
 <h2 style="font-size: 24px; font-weight: 700;">🛠️ Technical Toolkit</h2>
 
-Data & Business Intelligence (BI)
+<h3 style="text-decoration: underline;">Data & Business Intelligence (BI)</h3>
 
 Tools: 🐍 Python (Pandas, Requests), Power BI, SQL, Google Analytics (GA)
 
 Focus: Data Wrangling, Visualization, and Dashboard Reporting.
 
-Marketing & Creative Technology
+<h3 style="text-decoration: underline;">Marketing & Creative Technology</h3>
 
 Expertise: Performance Creative, EDM Campaign Execution, Brand Management
 
 Experience: 6+ years focusing on measurable ROI and high-volume campaign output.
 
-Development & Automation
+<h3 style="text-decoration: underline;">Development & Automation</h3>
 
 Skills: Web Scraping, Generative AI (Lovable.app), Git
 
@@ -40,7 +40,9 @@ Outcome: Data was transformed into a Multi-dimensional Weighted Index and deploy
 
 <h3 style="font-size: 20px; font-weight: 600;">🤖 Automated Weekly Web Scraper</h3>
 
-Repository Link: [Link to your Weekly Scraper Repo]
+Repository Link: 
+
+$$Link to your Weekly Scraper Repo$$
 
 Demonstrates: Scheduled data extraction, automation pipeline setup, and data storage/pipeline management.
 
