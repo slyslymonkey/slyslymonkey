@@ -28,7 +28,7 @@ Focus: Automating data acquisition and rapid prototype development.
 
 A full-stack, data-driven web app to help users find their ideal residential area in Hong Kong based on lifestyle and amenities.
 
-<h3 style="font-size: 20px; font-weight: 600;">🏠 Find Your District HK: Hong Kong District Matching Tool</h3>
+🏠 Find Your District HK: Hong Kong District Matching Tool</h3>
 
 Project Website: https://findyourdistricthk.lovable.app/
 
