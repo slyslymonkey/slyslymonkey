@@ -2,6 +2,7 @@
 
 Performance-driven professional with 6+ years in creative execution (21+ brands) now focused on leveraging data science and BI tools to optimize marketing outcomes.My foundation is in Brand Management and high-volume performance creative; my future is in Python, Power BI, and analytics-backed decision-making.
 
+
 <h2 style="font-size: 24px; font-weight: 700;">🛠️ Technical Toolkit</h2>
 
 Data & Business Intelligence (BI)
@@ -22,6 +23,7 @@ Skills: Web Scraping, Generative AI (Lovable.app), Git
 
 Focus: Automating data acquisition and rapid prototype development.
 
+
 <h2 style="font-size: 24px; font-weight: 700;">💡 Featured Project: Find Your District HK</h2>
 
 A full-stack, data-driven web app to help users find their ideal residential area in Hong Kong based on lifestyle and amenities.
@@ -35,6 +37,7 @@ Technical Stack: Python (Web Scraping), Google Data Analytics Framework, Lovable
 Key Achievement: Used Python to scrape and process multi-dimensional public data (F&B outlets, sports facilities, convenience stores, housing prices) for all HK districts.
 
 Outcome: Data was transformed into a Multi-dimensional Weighted Index and deployed as an interactive tool, demonstrating the ability to turn raw data into a functional product prototype.
+
 
 <h2 style="font-size: 24px; font-weight: 700;">🏆 Credentials & Commitment</h2>
 
