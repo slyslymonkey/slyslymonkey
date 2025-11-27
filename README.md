@@ -32,7 +32,7 @@ Focus: Automating data acquisition and rapid prototype development.
 
 A full-stack, data-driven web app to help users find their ideal residential area in Hong Kong based on lifestyle and amenities.
 
-Project Website: https://findyourdistricthk.lovable.app/
+Project Website: hkdistrict.com
 
 Data Normalization demo: https://github.com/slyslymonkey/Data_Normalisation
 
